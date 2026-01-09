@@ -1,0 +1,32 @@
+[
+  {
+    "alert_type": "AUTH_FAILURE",
+    "count": 1,
+    "source_ip": "192.168.1.10"
+  },
+  {
+    "alert_type": "AUTH_FAILURE",
+    "count": 4,
+    "source_ip": "192.168.1.15"
+  },
+  {
+    "alert_type": "AUTH_FAILURE",
+    "count": 7,
+    "source_ip": "192.168.1.22"
+  },
+  {
+    "alert_type": "UNAUTHORIZED_ACCESS",
+    "source_ip": "192.168.1.22",
+    "resource": "admin_panel"
+  },
+  {
+  "alert_type": "AUTH_FAILURE",
+  "count": 3,
+  "source_ip": "192.168.1.22"
+},
+{
+    "alert_type": "UNKNOWN_EVENT",
+    "source_ip": "10.0.0.99",
+    "details": "Unexpected system behavior"
+  }
+]
