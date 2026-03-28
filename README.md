@@ -1,4 +1,4 @@
-# Security Alert Traige and Correlation Engine
+# Security Alert Triage and Correlation Engine
 A rule-based security system that analyzes raw security alerts, assigns severity, correlates related events by source IP, and generates incident-level summaries to support security triage and prioritization.
 The project focuses on security decision-making, not alert generation or exploitation.
 
